@@ -14,3 +14,5 @@ Second change gemaakt op Eclipse - No Bash
 >>>>>>> c856b50032a41d1afdd5d0f24294b77465633fd2
 
 Third change gemaakt via command line - Bash
+
+Fourth change gemaakt via Eclipse - No Bash, No command line
